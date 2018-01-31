@@ -14,8 +14,8 @@ react-native run-android
 ```
 by the way, you can just drag image into Android Emulator.  
 
-## Youtube video of this demo app:      
-**Still uploading**  
+## Youtube video of this demo app:        
+https://youtu.be/Vgq-P826aqw  
 
 ## since `App.js` only have 58 line, I just paste code here 
 ```javascript
