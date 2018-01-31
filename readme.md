@@ -1,3 +1,14 @@
+## For issue
+https://github.com/facebook/react-native/issues/17801
+
+### React Native 0.52
+### Report issue:
+`<Image>` take up too much memory
+
+Youtube video of this demo app: 
+
+since `App.js` only have 58 line, I just paste code here 
+```javascript
 import React, { Component } from 'react';
 import {Platform, StyleSheet, Text, View, Button, FlatList, Image} from 'react-native';
 import ImagePicker from 'react-native-image-crop-picker';
@@ -56,3 +67,4 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,  
   }
 });
+```
