@@ -5,6 +5,15 @@ using React Native 0.52
 ## Report issue:
 `<Image>` take up too much memory
 
+## How to reproduce the problem
+```
+git clone git@github.com:1c7/react-native-image-memory-problem-demo-app.git
+cd react-native-image-memory-problem-demo-app
+npm install
+react-native run-android
+```
+by the way, you can just drag image into Android Emulator.  
+
 ## Youtube video of this demo app:      
 **Still uploading**  
 
