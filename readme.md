@@ -71,4 +71,27 @@ const styles = StyleSheet.create({
 ```
 
 ### So
-![1](/demo-image/1.png)
+When App start, it take about 50MB memory  
+![1](/demo-image/1.png)  
+Let's select one image    
+![1](/demo-image/2.png) 
+now it take 64.5MB. What?   
+![1](/demo-image/3.png)  
+3 image == 79.75MB
+![1](/demo-image/4.png)  
+Let's select 63 more image  
+![1](/demo-image/5.png)  
+growing..  
+![1](/demo-image/6.png)  
+now it take 375MB memory  
+![1](/demo-image/7.png)  
+let's crash this app by select more image  
+![1](/demo-image/8.png)  
+379MB  
+![1](/demo-image/9.png)  
+617MB  
+![1](/demo-image/11.png)  
+650mb 
+![1](/demo-image/12.png)  
+it Crash adround 700MB memory  
+![1](/demo-image/13.png)  
