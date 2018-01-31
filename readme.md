@@ -69,3 +69,6 @@ const styles = StyleSheet.create({
   }
 });
 ```
+
+### So
+![1](/demo-image/1.png)
