@@ -1,12 +1,12 @@
 ## This demo app is for issue:
 https://github.com/facebook/react-native/issues/17801
+using React Native 0.52     
 
-## React Native 0.52
 ## Report issue:
-
 `<Image>` take up too much memory
 
-Youtube video of this demo app: 
+## Youtube video of this demo app:      
+**Still uploading**  
 
 ## since `App.js` only have 58 line, I just paste code here 
 ```javascript
@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
 });
 ```
 
-### So
+### Image for this issue:   
 When App start, it take about 50MB memory  
 ![1](/demo-image/1.png)  
 Let's select one image    
